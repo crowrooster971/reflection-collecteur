@@ -1,0 +1,14 @@
+{
+  "name": "reflection-collecteur",
+  "version": "1.0.0",
+  "description": "Application pour la collecte et l'analyse des retours d'expérience des utilisateurs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "license": "MIT"
+}
